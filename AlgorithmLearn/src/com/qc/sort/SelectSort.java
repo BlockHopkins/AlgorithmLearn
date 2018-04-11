@@ -1,8 +1,8 @@
-package sort;
+package com.qc.sort;
 
 import java.util.Arrays;
 
-import utils.IOUtils;
+import com.qc.utils.IOUtils;
 
 /**
  * 选择排序

@@ -1,8 +1,8 @@
-package sort;
+package com.qc.sort;
 
 import java.util.Arrays;
 
-import utils.IOUtils;
+import com.qc.utils.IOUtils;
 
 /**
  * 归并排序的第二种实现，不在原序列上排，用拆分到子数组的形式。

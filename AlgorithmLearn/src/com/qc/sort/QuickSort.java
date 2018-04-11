@@ -1,8 +1,8 @@
-package sort;
+package com.qc.sort;
 
 import java.util.Arrays;
 
-import utils.IOUtils;
+import com.qc.utils.IOUtils;
 
 /**
  * 快速排序（Quicksort）是对冒泡排序的一种改进。
