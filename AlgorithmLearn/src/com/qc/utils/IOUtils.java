@@ -21,6 +21,18 @@ public class IOUtils {
 	}
 	
 	/**
+	 * 通过输入获取一个整型数
+	 * @return
+	 */
+	public static int intInput(){
+		println("请输入一个整型数：");
+		Scanner scanner = new Scanner(System.in);
+		int n = scanner.nextInt();
+		scanner.close();
+		return n;
+	}
+	
+	/**
 	 * 输出
 	 * @param obj
 	 */
